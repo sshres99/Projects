@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PURPOSE OF PROJECT: To take the nth ranked most popular baby name of a certain year and see what that same nth rnaked most popular baby name was in a different year. Data came from CSV files and were parsed for the number of babies given a certain name to determine their ranking. 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
