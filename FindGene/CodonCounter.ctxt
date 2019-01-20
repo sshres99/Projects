@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CodonCounter
+comment1.params=
+comment1.target=CodonCounter()
+comment2.params=seq
+comment2.target=void\ update(java.lang.String)
+comment3.params=
+comment3.target=void\ findAllCodons()
+comment4.params=
+comment4.target=void\ test()
+numComments=5
